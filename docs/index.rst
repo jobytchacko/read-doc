@@ -70,13 +70,13 @@ how
 Field Lists
 -----------
 :Authors:
-    Tony J. (Tibs) Ibbs,
-    David Goodger
+    Joby Chacko,
+    Author 2
 
     (and sundry other good-natured folks)
 
 :Version: 1.0 of 2001/08/08
-:Dedication: To my father. 
+:Dedication: Restructure Documentation. 
 
 .. toctree::
     :hidden:
